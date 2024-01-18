@@ -1,14 +1,15 @@
 //
-//  swipperApp.swift
-//  swipper
+//  iosweeperApp.swift
+//  iosweeper
 //
-//  Created by Robin Kriisa on 18.01.2024.
+//  Created by Robin Kriisa on 15.12.2023.
 //
 
 import SwiftUI
 
+
 @main
-struct swipperApp: App {
+struct iosweeperApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
